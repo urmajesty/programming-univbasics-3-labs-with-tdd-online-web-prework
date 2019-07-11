@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = 14
+do first_number = get_variable_from_file.to be_an('./calculator.rb', "first number")
