@@ -1,3 +1,3 @@
 # Add your variables here
- first_number = ('./calculator.rb', "first number")
+ first_number = ("13")
  puts first_number
